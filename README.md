@@ -1,4 +1,6 @@
-                          Breath Mirror Interactive Hand & Breath Installation
+<p align="center">
+  <img src="banner.png" alt="Draw On Foggy Window Banner" width="100%">
+</p>
 An immersive real-time web experience that transforms your camera feed into an interactive “living mirror”.
 You can **draw in the air using your hand**, reveal fog with your breath, and capture cinematic snapshots like an art installation.
 
